@@ -91,7 +91,7 @@ Type natural language commands like:
 
 - Node.js >= 18.0.0
 - Terminal with Unicode support
-- (Optional) [Claude CLI](https://claude.ai/cli) for AI features
+- (Optional) Claude Code for AI features
 
 ## Configuration
 
@@ -138,12 +138,6 @@ npm run build
 npm test
 ```
 
-## Tech Stack
-
-- [React](https://react.dev/) - UI components
-- [Ink](https://github.com/vadimdemedes/ink) - React for CLI
-- [TypeScript](https://www.typescriptlang.org/) - Type safety
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -153,6 +147,24 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+## Disclaimer
+
+**THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.**
+
+**IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
+
+This includes, without limitation:
+- Data loss or corruption
+- System damage or malfunction
+- Security breaches or vulnerabilities
+- Financial losses
+- Any direct, indirect, incidental, special, exemplary, or consequential damages
+
+**The user assumes full responsibility for all consequences arising from the use of this software, regardless of whether such use was intended, authorized, or anticipated.**
+
+**USE AT YOUR OWN RISK.**
+
 
 ## License
 
